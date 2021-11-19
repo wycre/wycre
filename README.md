@@ -4,6 +4,9 @@
 
 - 👥 Looking to collaborate on projects
 - 🫂 Not currently looking for a job/internship, but still will accept offers
+- Enrolled at the University of Colorado Colorado Springs
+- Major in Computer Science
+- Interest in networking and cybersecurity
 
 # Contact Me
 

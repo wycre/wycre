@@ -13,12 +13,11 @@
 <p align ="center">
   
   Email:
- - davidjones@ycre.net
  - djones@wycre.net
   
   Other:
  - [LinkedIn](https://www.linkedin.com/in/david-jones-wycre/)
-
+ - [Website](https://wycre.net/)
 </p>
 
 

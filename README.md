@@ -5,7 +5,7 @@
 - 👥 Looking to collaborate on projects
 - 🫂 Not currently looking for a job/internship, but still will accept offers
 - Enrolled at the University of Colorado Colorado Springs
-- Major in Computer Science
+- Majoring in Computer Science
 - Interest in networking and cybersecurity
 
 Since I was in high school, I formed an interest in computers and computing. Many of my family and friends looked to me to solve problems related to technology. This and my natural passion to solve problems guided me into a career in tech.

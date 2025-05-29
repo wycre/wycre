@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm David</h1>
 
 # About Me
-Senior Network Technician at UCCS | Pursuing BA in Computer Science focused on Cybersecurity at UCCS | CompTIA Network+ Certified | Selfhosting Enthusiast | 3+ Years of experience working in IT 
+IT Professional | BA in Computer Science focused on Cybersecurity at UCCS | CompTIA Network+ CE Certified | CompTIA Security+ CE Certified | Selfhosting Enthusiast | 3+ Years of experience working in IT 
 
 # Contact Me
 
